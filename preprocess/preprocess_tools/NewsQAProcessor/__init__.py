@@ -1,0 +1,1 @@
+from .NewsQAProcessor import process

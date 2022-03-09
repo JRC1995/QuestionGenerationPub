@@ -1,0 +1,1 @@
+from .SQuADDuProcessor import process
